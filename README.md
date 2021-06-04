@@ -26,4 +26,3 @@ Teachers that want to continue to use the Moodle Quiz Module until Canvas improv
  
  ## YouTube Directions:
  
-https://youtu.be/RTOs-ja2hvY
