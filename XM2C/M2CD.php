@@ -193,12 +193,6 @@ $Moodle_scores[$item_ID.'|'.$myCstudents[$username]] = $finalgrade;
   $AID="0";
   $all_assignments=array();
   foreach($Moodle_scores as $key=>$value) {
-  ///////////////fix for Hermon Physics gradesheet only//////////////////////////////////////
-    if($CID==2){
-    $ID = explode("*", $key);
-    $ekey='E'.$ID[0].$ID[1];
-    if($Moodle_scores[$key]>=9 && $Moodle_scores[$ekey]>99){$Moodle_scores[$key]+=.5;}}
-  ////////////////////////////////////////////////////////////////////////////////////////////
 
 $key_explode = explode("|", $key);
 $ass_ID = $m_ass_IDS[$key_explode[0]];
