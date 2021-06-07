@@ -26,5 +26,7 @@ Teachers that want to continue to use the Moodle Quiz Module until Canvas improv
  
  ## YouTube Directions:
  
-Moodle ➔ Canvas (Initial Setup):  https://youtu.be/j1rd39_nPb8
-Moodle ➔ Canvas (Grade Sync):   https://youtu.be/1gY2aalCwCs
+ <ul>
+<li>Moodle ➔ Canvas (Initial Setup):  https://youtu.be/j1rd39_nPb8</li>
+<li>Moodle ➔ Canvas (Grade Sync):   https://youtu.be/1gY2aalCwCs</li>
+</ul>
